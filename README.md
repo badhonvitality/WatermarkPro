@@ -47,6 +47,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## 👨‍💻 Developed By
 
 **WatermarkPro** is developed and maintained by **[badhonvitality](https://github.com/badhonvitality)**.
+
+**📬 Contact & Support:**
+- **Discord:** `@badhonvitality`
+
 Feel free to reach out, open issues, or submit pull requests!
 
 ## 📄 License
