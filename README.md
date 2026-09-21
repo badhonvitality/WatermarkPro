@@ -24,14 +24,14 @@
 
 Built with modern web technologies for maximum performance and user experience:
 
-- **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **UI Components**: [Radix UI](https://www.radix-ui.com/) & [Lucide Icons](https://lucide.dev/)
-- **Processing Engine**: HTML5 Canvas API (OffscreenCanvas with Web Workers)
-- **Offline Support**: Custom Service Workers & PWA Manifest
-- **Video Processing**: Browser-native canvas capturing & MediaRecorder API
-- **State Management**: React Hooks (useState, useCallback, useRef)
+- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" height="20" /> **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
+- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="20" /> **Language**: [TypeScript](https://www.typescriptlang.org/)
+- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="20" /> **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radix-ui&logoColor=white" alt="Radix UI" height="20" /> **UI Components**: [Radix UI](https://www.radix-ui.com/) & [Lucide Icons](https://lucide.dev/)
+- <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Canvas" height="20" /> **Processing Engine**: HTML5 Canvas API (OffscreenCanvas with Web Workers)
+- <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="PWA" height="20" /> **Offline Support**: Custom Service Workers & PWA Manifest
+- <img src="https://img.shields.io/badge/Web_Media-333333?style=flat&logo=webrtc&logoColor=white" alt="Media API" height="20" /> **Video Processing**: Browser-native canvas capturing & MediaRecorder API
+- <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" height="20" /> **State Management**: React Hooks (useState, useCallback, useRef)
 
 ## 🚀 Getting Started
 
